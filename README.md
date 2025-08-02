@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://naitik.dev/](https://naitik.dev/)
 
-- 💬 Ask me about **my projects**
+- 💬 Ask me about **my Projects**
 
 - 📫 How to reach me **kumarnaitik7970@gmail.com**
 
