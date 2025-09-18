@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namannaitik34" alt="namannaitik34" /></a> </p>
 
+![](https://github-visitor-counter-zeta.vercel.app/api?username=namannaitik34)
+
 <p align="left"> <a href="https://twitter.com/naman_naitik34" target="blank"><img src="https://img.shields.io/twitter/follow/naman_naitik34?logo=twitter&style=for-the-badge" alt="naman_naitik34" /></a> </p>
 
 - 🌱 I’m currently learning **Mobile App Development**
