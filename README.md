@@ -1,4 +1,4 @@
-<h1 align="center">Hii 👋, I'm Naitik Kumar Shrivastawa</h1>
+<h1 align="center">Hii 👋, I'm Naitik Shrivastawa</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namannaitik34&label=Profile%20views&color=0e75b6&style=flat" alt="namannaitik34" /> </p>
